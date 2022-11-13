@@ -50,7 +50,7 @@ public class Main {
 		
 		case 3:
 			System.out.println("Update crime Case Status");
-			CaseStatusUpdate.CaseSatatusUpdate();
+			CrimeCaseStatusUpdate.CaseSatatusUpdate();
 			break;
 	
 			
